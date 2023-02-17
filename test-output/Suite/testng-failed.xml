@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test2wynisco(failed)">
+    <classes>
+      <class name="com.qa.testcases.Test2wynisco">
+        <methods>
+          <include name="form"/>
+        </methods>
+      </class> <!-- com.qa.testcases.Test2wynisco -->
+    </classes>
+  </test> <!-- Test2wynisco(failed) -->
+</suite> <!-- Failed suite [Suite] -->
