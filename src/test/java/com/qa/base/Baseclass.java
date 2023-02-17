@@ -24,7 +24,7 @@ public WebDriver driver;
 
 			driver.get(AppConfigurations.getProperty("AppUrl"));
 
-			Thread.sleep(3005);
+			Thread.sleep(3010);
 
 			driver.manage().window().maximize();
 
